@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLayer",
+    "\\BusinessLayer\\Concrete",
+    "\\Movie_API"
+  ],
+  "SelectedNode": "\\BusinessLayer\\Concrete\\WatchedManager.cs",
+  "PreviewInSolutionExplorer": false
+}
